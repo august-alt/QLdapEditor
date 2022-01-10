@@ -1,6 +1,8 @@
 CMAKE_MINIMUM_REQUIRED(VERSION 3.1.0)
 PROJECT(QLdapEditor)
 
+include(GNUInstallDirs)
+
 SET(PRODUCT "LDAP Editor")
 SET(PACKAGENAME "ldapeditor")
 SET(COMPANY "Very Big Company Inc.")
