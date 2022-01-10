@@ -43,9 +43,8 @@ LDAP Editor based on Qt and ldapc++ wrapper
 
 %_libdir/*
 
-%_datadir/*
-
-%_sysconfdir/*
+%_desktopdir/LdapEditorApp.desktop
+%_datadir/icons/LdapEditorApp.png
 
 %changelog
 * Tue Jan 10 2022 Vladimir Rubanov <august@altlinux.org> 0.1.0-alt1
